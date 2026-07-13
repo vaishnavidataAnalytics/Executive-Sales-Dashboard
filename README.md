@@ -1,7 +1,12 @@
 # Executive Sales Dashboard 📊
+<img width="1140" height="645" alt="image" src="https://github.com/user-attachments/assets/b6cb0ab0-8ef8-4c7a-91b5-00ea09297ac9" />
+<img width="1137" height="634" alt="image" src="https://github.com/user-attachments/assets/338aed3f-d60d-4cb6-87a7-6e649ba61d66" />
+
+
 
 ## 📌 Project Overview
 This project focuses on building an interactive and insights-driven Sales Dashboard using Power BI. The goal is to analyze overall sales performance, revenue trends, and key business metrics to help corporate stakeholders make data-driven decisions.
+
 
 ---
 
